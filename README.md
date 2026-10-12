@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/parkour-crab.png" alt="Faith Runner: a crab with Faith's hair and red arm wraps, mid-parkour" width="440"></p>
+
 # Faith Runner
 
 Mirror's Edge-style first-person movement in Rust, with a Bevy greybox course to test it in.
